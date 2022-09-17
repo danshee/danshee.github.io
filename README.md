@@ -1,4 +1,4 @@
-# https-danshee.github.io
+# Danshee
 
 [Mysteries](/mysteries)
 
