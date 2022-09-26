@@ -7,8 +7,8 @@ layout: page
 
 
 
-&emsp;&emsp;[/Code](/code)
+&emsp;&emsp;[/ Code](/code)
 
-&emsp;&emsp;[/Career](/career)
+&emsp;&emsp;[/ Career](/career)
 
-&emsp;&emsp;[/Mysteries](/mysteries)
+&emsp;&emsp;[/ Mysteries](/mysteries)
